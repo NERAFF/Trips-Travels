@@ -1,8 +1,10 @@
 🌍 Trips & Travels
+
   Analisi e Progettazione del Software – Preappello 10/06/2024
   Università degli Studi di Milano-Bicocca – Dipartimento di Informatica, Sistemistica e Comunicazione
 
 👥 Gruppo Codex
+
   Gianfarelli Giorgio - mat. 894499
   Hu Jacky - mat. 894587
   Lauria Luca - mat. 900326
@@ -10,10 +12,12 @@
 
 
 📄 Descrizione
+
   "Trips & Travels" è un sistema software progettato per la gestione delle prenotazioni di pacchetti vacanze, ricerca destinazioni, recensioni, carte fedeltà e report per l’amministratore.
   Progetto realizzato nell'ambito del corso di Analisi e Progettazione del Software presso l’Università di Milano-Bicocca .
 
 🔧 Funzionalità Principali
+
   Prenotazione Viaggi : Effettuare, modificare e cancellare una prenotazione.
   Carta Fedeltà : Acquisto e accumulo punti per gli utenti registrati.
   Ricerca Località : Ricerca avanzata e gestione delle località preferite.
@@ -33,7 +37,9 @@
   Design Patterns Utilizzati :
     GRASP: Controller, Pure Fabrication
     Design Pattern: Singleton, Observer
+    
 📦 Architettura Software
+
   Organizzazione modulare in package:
       Dominio : Classi principali (Cliente, PacchettoVacanza, Prenotazione)
       Controller : Gestione logica applicativa (UtenteController, AmministratoreController)
@@ -41,6 +47,7 @@
       Storage : Persistenza tramite pattern Singleton
       
 🧪 Tecnologie Utilizzate
+
   Linguaggio di modellazione: UML
   Linguaggio consigliato per implementazione futura: Java
   Design Patterns: Singleton , Observer
